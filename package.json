@@ -1,0 +1,28 @@
+{
+  "name": "typescript_qrcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasper1902/typescript_qrCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasper1902/typescript_qrCode/issues"
+  },
+  "homepage": "https://github.com/jasper1902/typescript_qrCode#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/qrcode": "^1.5.1",
+    "qrcode": "^1.5.3"
+  }
+}
